@@ -5,11 +5,11 @@ import static org.junit.Assert.assertEquals;
 
 public class PlayerCharacterTest {
 
-//    PlayerCharacter playerCharacter;
+//    Players.PlayerCharacter playerCharacter;
 //
 //    @Before
 //    public void before(){
-//        playerCharacter = new PlayerCharacter(10);
+//        playerCharacter = new Players.PlayerCharacter(10);
 //    }
 //
 //    @Test

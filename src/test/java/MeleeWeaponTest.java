@@ -1,3 +1,4 @@
+import Tools.MeleeWeapon;
 import org.junit.Before;
 import org.junit.Test;
 

@@ -1,3 +1,7 @@
+import Enums.RoomType;
+import Players.Fighter;
+import Players.Healer;
+import Tools.HealingTool;
 import org.junit.Before;
 import org.junit.Test;
 
@@ -10,9 +14,9 @@ public class HealerTest {
 
     @Before
     public void before(){
-        healer = new Healer(10);
+        healer = new Healer(10, RoomType.HOBBITON);
         healingTool = new HealingTool(1);
-        fighter = new Fighter(10);
+        fighter = new Fighter(10, RoomType.SHANGRILA);
     }
 
     @Test
@@ -36,5 +40,11 @@ public class HealerTest {
         healer.addHealingToolInventory(healingTool);
         healer.manipulateHeathPoints(fighter);
         assertEquals(11, fighter.getHealthPoints());
+    }
+
+    @Test
+    public void canClearHealingToolInventory() {
+        healer.clearHealingToolInventory();
+        assertEquals(0, healer.getHealingToolInventoryCount());
     }
 }

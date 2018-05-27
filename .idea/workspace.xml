@@ -2,23 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ec1085b-6a46-41aa-b64e-77b61376381b" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Players/PlayerCharacter.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Fighter.class" afterPath="$PROJECT_DIR$/out/production/classes/Fighter.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Healer.class" afterPath="$PROJECT_DIR$/out/production/classes/Healer.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/PlayerCharacter.class" afterPath="$PROJECT_DIR$/out/production/classes/PlayerCharacter.class" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/Spellcaster.class" afterPath="$PROJECT_DIR$/out/production/classes/Spellcaster.class" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Familiar.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Fighter.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Healer.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/HealingTool.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/IManipulateHealthPoints.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Item.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/MeleeWeapon.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/PlayerCharacter.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Spell.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Spellcaster.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/FamiliarTest.class" afterPath="$PROJECT_DIR$/out/test/classes/FamiliarTest.class" />
       <change beforePath="$PROJECT_DIR$/out/test/classes/FighterTest.class" afterPath="$PROJECT_DIR$/out/test/classes/FighterTest.class" />
       <change beforePath="$PROJECT_DIR$/out/test/classes/HealerTest.class" afterPath="$PROJECT_DIR$/out/test/classes/HealerTest.class" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/HealingToolTest.class" afterPath="$PROJECT_DIR$/out/test/classes/HealingToolTest.class" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/ItemTest.class" afterPath="$PROJECT_DIR$/out/test/classes/ItemTest.class" />
       <change beforePath="$PROJECT_DIR$/out/test/classes/MeleeWeaponTest.class" afterPath="$PROJECT_DIR$/out/test/classes/MeleeWeaponTest.class" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/PlayerCharacterTest.class" afterPath="$PROJECT_DIR$/out/test/classes/PlayerCharacterTest.class" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Fighter.java" afterPath="$PROJECT_DIR$/src/main/java/Fighter.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Healer.java" afterPath="$PROJECT_DIR$/src/main/java/Healer.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/PlayerCharacter.java" afterPath="$PROJECT_DIR$/src/main/java/PlayerCharacter.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Spellcaster.java" afterPath="$PROJECT_DIR$/src/main/java/Spellcaster.java" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/SpellTest.class" afterPath="$PROJECT_DIR$/out/test/classes/SpellTest.class" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/SpellcasterTest.class" afterPath="$PROJECT_DIR$/out/test/classes/SpellcasterTest.class" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Familiar.java" afterPath="$PROJECT_DIR$/src/main/java/Tools/Familiar.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Fighter.java" afterPath="$PROJECT_DIR$/src/main/java/Players/Fighter.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Healer.java" afterPath="$PROJECT_DIR$/src/main/java/Players/Healer.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HealingTool.java" afterPath="$PROJECT_DIR$/src/main/java/Tools/HealingTool.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/IManipulateHealthPoints.java" afterPath="$PROJECT_DIR$/src/main/java/Interfaces/IManipulateHealthPoints.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Item.java" afterPath="$PROJECT_DIR$/src/main/java/Tools/Item.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/MeleeWeapon.java" afterPath="$PROJECT_DIR$/src/main/java/Tools/MeleeWeapon.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PlayerCharacter.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Spell.java" afterPath="$PROJECT_DIR$/src/main/java/Tools/Spell.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Spellcaster.java" afterPath="$PROJECT_DIR$/src/main/java/Players/Spellcaster.java" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FamiliarTest.java" afterPath="$PROJECT_DIR$/src/test/java/FamiliarTest.java" />
       <change beforePath="$PROJECT_DIR$/src/test/java/FighterTest.java" afterPath="$PROJECT_DIR$/src/test/java/FighterTest.java" />
       <change beforePath="$PROJECT_DIR$/src/test/java/HealerTest.java" afterPath="$PROJECT_DIR$/src/test/java/HealerTest.java" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/HealingToolTest.java" afterPath="$PROJECT_DIR$/src/test/java/HealingToolTest.java" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ItemTest.java" afterPath="$PROJECT_DIR$/src/test/java/ItemTest.java" />
       <change beforePath="$PROJECT_DIR$/src/test/java/MeleeWeaponTest.java" afterPath="$PROJECT_DIR$/src/test/java/MeleeWeaponTest.java" />
       <change beforePath="$PROJECT_DIR$/src/test/java/PlayerCharacterTest.java" afterPath="$PROJECT_DIR$/src/test/java/PlayerCharacterTest.java" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SpellTest.java" afterPath="$PROJECT_DIR$/src/test/java/SpellTest.java" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/SpellcasterTest.java" afterPath="$PROJECT_DIR$/src/test/java/SpellcasterTest.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -30,6 +52,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -37,26 +62,54 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="IManipulateHealthPoints.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/IManipulateHealthPoints.java">
+      <file leaf-file-name="Level.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Level.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="30" lean-forward="false" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="30" />
+            <state relative-caret-position="240">
+              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#353#354#0" expanded="true" />
+                <element signature="e#384#385#0" expanded="true" />
+                <element signature="e#413#414#0" expanded="true" />
+                <element signature="e#461#462#0" expanded="true" />
+                <element signature="e#496#497#0" expanded="true" />
+                <element signature="e#547#548#0" expanded="true" />
+                <element signature="e#581#582#0" expanded="true" />
+                <element signature="e#620#621#0" expanded="true" />
+                <element signature="e#667#668#0" expanded="true" />
+                <element signature="e#715#716#0" expanded="true" />
+                <element signature="e#783#784#0" expanded="true" />
+                <element signature="e#829#830#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Familiar.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Tools/Familiar.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Fighter.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Fighter.java">
+      <file leaf-file-name="Fighter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Players/Fighter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="48" lean-forward="false" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+            <state relative-caret-position="60">
+              <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
               <folding>
-                <element signature="e#303#304#0" expanded="true" />
-                <element signature="e#358#359#0" expanded="true" />
-                <element signature="e#428#429#0" expanded="true" />
-                <element signature="e#486#487#0" expanded="true" />
+                <element signature="e#453#454#0" expanded="true" />
+                <element signature="e#508#509#0" expanded="true" />
+                <element signature="e#578#579#0" expanded="true" />
+                <element signature="e#636#637#0" expanded="true" />
+                <element signature="e#1029#1030#0" expanded="true" />
+                <element signature="e#1078#1079#0" expanded="true" />
+                <element signature="e#1114#1115#0" expanded="true" />
+                <element signature="e#1150#1151#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -65,114 +118,69 @@
       <file leaf-file-name="FighterTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/FighterTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#410#411#0" expanded="true" />
-                <element signature="e#469#470#0" expanded="true" />
-                <element signature="e#532#533#0" expanded="true" />
-                <element signature="e#603#604#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SpellTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/SpellTest.java">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+              <caret line="12" column="28" lean-forward="false" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#175#176#0" expanded="true" />
-                <element signature="e#211#212#0" expanded="true" />
-                <element signature="e#267#268#0" expanded="true" />
-                <element signature="e#333#334#0" expanded="true" />
+                <element signature="e#551#552#0" expanded="true" />
+                <element signature="e#610#611#0" expanded="true" />
+                <element signature="e#673#674#0" expanded="true" />
+                <element signature="e#744#745#0" expanded="true" />
+                <element signature="e#1381#1382#0" expanded="true" />
+                <element signature="e#1455#1456#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PlayerCharacter.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/PlayerCharacter.java">
+      <file leaf-file-name="IManipulateHealthPoints.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Interfaces/IManipulateHealthPoints.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-              <folding>
-                <element signature="e#151#152#0" expanded="true" />
-                <element signature="e#199#200#0" expanded="true" />
-                <element signature="e#234#235#0" expanded="true" />
-                <element signature="e#274#275#0" expanded="true" />
-                <element signature="e#329#330#0" expanded="true" />
-                <element signature="e#380#381#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Item.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Item.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
-              <folding>
-                <element signature="e#105#106#0" expanded="true" />
-                <element signature="e#173#174#0" expanded="true" />
-                <element signature="e#219#220#0" expanded="true" />
-                <element signature="e#269#270#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="60">
+              <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Healer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Healer.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Players/Healer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="23" column="5" lean-forward="false" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-              <folding>
-                <element signature="e#302#303#0" expanded="true" />
-                <element signature="e#357#358#0" expanded="true" />
-                <element signature="e#425#426#0" expanded="true" />
-                <element signature="e#483#484#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="60">
+              <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SpellcasterTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/SpellcasterTest.java">
+      <file leaf-file-name="PlayerCharacter.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Players/PlayerCharacter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="326">
-              <caret line="43" column="5" lean-forward="false" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#395#396#0" expanded="true" />
-                <element signature="e#458#459#0" expanded="true" />
-                <element signature="e#518#519#0" expanded="true" />
-                <element signature="e#590#591#0" expanded="true" />
-                <element signature="e#648#649#0" expanded="true" />
-                <element signature="e#717#718#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="30">
+              <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Spellcaster.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Spellcaster.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Players/Spellcaster.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="60" lean-forward="false" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="60" />
+            <state relative-caret-position="30">
+              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
               <folding>
-                <element signature="e#388#389#0" expanded="true" />
-                <element signature="e#440#441#0" expanded="true" />
-                <element signature="e#483#484#0" expanded="true" />
-                <element signature="e#532#533#0" expanded="true" />
-                <element signature="e#589#590#0" expanded="true" />
-                <element signature="e#635#636#0" expanded="true" />
-                <element signature="e#704#705#0" expanded="true" />
-                <element signature="e#756#757#0" expanded="true" />
+                <element signature="e#522#523#0" expanded="true" />
+                <element signature="e#574#575#0" expanded="true" />
+                <element signature="e#617#618#0" expanded="true" />
+                <element signature="e#666#667#0" expanded="true" />
+                <element signature="e#723#724#0" expanded="true" />
+                <element signature="e#769#770#0" expanded="true" />
+                <element signature="e#838#839#0" expanded="true" />
+                <element signature="e#890#891#0" expanded="true" />
+                <element signature="e#1277#1278#0" expanded="true" />
+                <element signature="e#1323#1324#0" expanded="true" />
+                <element signature="e#1364#1365#0" expanded="true" />
+                <element signature="e#1407#1408#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -181,15 +189,9 @@
       <file leaf-file-name="HealerTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/HealerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="37" column="32" lean-forward="false" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#389#390#0" expanded="true" />
-                <element signature="e#447#448#0" expanded="true" />
-                <element signature="e#510#511#0" expanded="true" />
-                <element signature="e#580#581#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="105">
+              <caret line="14" column="11" lean-forward="true" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -199,10 +201,16 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/main/java/Players</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -387,6 +395,7 @@
       <map>
         <entry key="$PROJECT_DIR$" value="4581458423000" />
         <entry key="$PROJECT_DIR$/build.gradle" value="1793042163" />
+        <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="975608090" />
         <entry key="$PROJECT_DIR$/settings.gradle" value="4138033785" />
       </map>
     </option>
@@ -508,24 +517,43 @@
         <option value="$PROJECT_DIR$/src/test/java/HealingToolTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/SpellTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/FamiliarTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/PlayerCharacter.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Spellcaster.java" />
-        <option value="$PROJECT_DIR$/src/main/java/IManipulateHealthPoints.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Fighter.java" />
         <option value="$PROJECT_DIR$/src/test/java/PlayerCharacterTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/MeleeWeaponTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/FighterTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Healer.java" />
-        <option value="$PROJECT_DIR$/src/test/java/SpellcasterTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/HealerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SpellcasterTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Room.java" />
+        <option value="$PROJECT_DIR$/src/test/java/FighterTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Fighter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/RoomType.java" />
+        <option value="$PROJECT_DIR$/src/test/java/LevelTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Enums/RoomType.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Interface/IManipulateHealthPoints.java" />
+        <option value="$PROJECT_DIR$/src/main/java/IManipulateHealthPoints.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Tools/Item.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Tools/HealingTool.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Tools/MeleeWeapon.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Tools/Spell.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Tools/Familiar.java" />
+        <option value="$PROJECT_DIR$/src/main/java/PlayerCharacter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Rooms/Level.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Level.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Healer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Spellcaster.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Players/PlayerCharacter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Players/Fighter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Players/Healer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Players/Spellcaster.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Players/IManipulateHealthPoints.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Players/Interfaces/IManipulateHealthPoints.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Interfaces/IManipulateHealthPoints.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="148" />
-    <option name="y" value="83" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="16" />
+    <option name="y" value="40" />
     <option name="width" value="1440" />
-    <option name="height" value="807" />
+    <option name="height" value="806" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -579,19 +607,17 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
-            <path>
-              <item name="fantasy_adventure" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fantasy_adventure" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
     </panes>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -605,7 +631,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.HealerTest.canManipulateHeathPoints">
+  <component name="RunManager" selected="JUnit.All in fantasy_adventure_test">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -647,13 +673,13 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="FighterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LevelTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="fantasy_adventure_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FighterTest" />
+      <option name="MAIN_CLASS_NAME" value="LevelTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -667,14 +693,14 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="FighterTest.canManipulateHeathPoints" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LevelTest.addRoom" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="fantasy_adventure_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="FighterTest" />
-      <option name="METHOD_NAME" value="canManipulateHeathPoints" />
+      <option name="MAIN_CLASS_NAME" value="LevelTest" />
+      <option name="METHOD_NAME" value="addRoom" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -687,14 +713,14 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="HealerTest.canManipulateHeathPoints" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LevelTest.getPlayerCharacterCountInRoom" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="fantasy_adventure_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="HealerTest" />
-      <option name="METHOD_NAME" value="canManipulateHeathPoints" />
+      <option name="MAIN_CLASS_NAME" value="LevelTest" />
+      <option name="METHOD_NAME" value="getPlayerCharacterCountInRoom" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -707,15 +733,15 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="SpellcasterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LevelTest.levelHasReward" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="fantasy_adventure_test" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SpellcasterTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="MAIN_CLASS_NAME" value="LevelTest" />
+      <option name="METHOD_NAME" value="levelHasReward" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -789,18 +815,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="JUnit.All in fantasy_adventure_test" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.FighterTest" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.SpellcasterTest" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.FighterTest.canManipulateHeathPoints" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.HealerTest.canManipulateHeathPoints" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.LevelTest.levelHasReward" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.LevelTest.getPlayerCharacterCountInRoom" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.LevelTest.addRoom" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.LevelTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.HealerTest.canManipulateHeathPoints" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.FighterTest.canManipulateHeathPoints" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.All in fantasy_adventure_test" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.FighterTest" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.SpellcasterTest" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.All in fantasy_adventure_test" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.LevelTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.LevelTest.addRoom" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.LevelTest.getPlayerCharacterCountInRoom" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.LevelTest.levelHasReward" />
       </list>
     </recent_temporary>
   </component>
@@ -821,68 +847,67 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="All_in_fantasy_adventure_test - 2018.05.24 at 14h 00m 46s.xml">
+    <history-entry file="All_in_fantasy_adventure_test - 2018.05.27 at 16h 16m 03s.xml">
       <configuration name="All in fantasy_adventure_test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_fantasy_adventure_test - 2018.05.24 at 14h 30m 02s.xml">
+    <history-entry file="All_in_fantasy_adventure_test - 2018.05.27 at 16h 29m 36s.xml">
       <configuration name="All in fantasy_adventure_test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_fantasy_adventure_test - 2018.05.24 at 14h 53m 35s.xml">
+    <history-entry file="All_in_fantasy_adventure_test - 2018.05.27 at 16h 29m 57s.xml">
       <configuration name="All in fantasy_adventure_test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="All_in_fantasy_adventure_test - 2018.05.24 at 14h 54m 40s.xml">
+    <history-entry file="All_in_fantasy_adventure_test - 2018.05.27 at 16h 34m 34s.xml">
       <configuration name="All in fantasy_adventure_test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FighterTest - 2018.05.24 at 14h 11m 46s.xml">
-      <configuration name="FighterTest" configurationId="JUnit" />
+    <history-entry file="All_in_fantasy_adventure_test - 2018.05.27 at 16h 35m 05s.xml">
+      <configuration name="All in fantasy_adventure_test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FighterTest_canManipulateHeathPoints - 2018.05.24 at 14h 57m 18s.xml">
-      <configuration name="FighterTest.canManipulateHeathPoints" configurationId="JUnit" />
+    <history-entry file="All_in_fantasy_adventure_test - 2018.05.27 at 16h 36m 15s.xml">
+      <configuration name="All in fantasy_adventure_test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HealerTest - 2018.05.24 at 14h 17m 46s.xml">
-      <configuration name="HealerTest" configurationId="JUnit" />
+    <history-entry file="All_in_fantasy_adventure_test - 2018.05.27 at 17h 01m 42s.xml">
+      <configuration name="All in fantasy_adventure_test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HealerTest - 2018.05.24 at 14h 19m 27s.xml">
-      <configuration name="HealerTest" configurationId="JUnit" />
+    <history-entry file="All_in_fantasy_adventure_test - 2018.05.27 at 17h 02m 34s.xml">
+      <configuration name="All in fantasy_adventure_test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="HealerTest_canManipulateHeathPoints - 2018.05.24 at 15h 01m 29s.xml">
-      <configuration name="HealerTest.canManipulateHeathPoints" configurationId="JUnit" />
+    <history-entry file="All_in_fantasy_adventure_test - 2018.05.27 at 17h 03m 46s.xml">
+      <configuration name="All in fantasy_adventure_test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SpellcasterTest - 2018.05.24 at 14h 29m 46s.xml">
-      <configuration name="SpellcasterTest" configurationId="JUnit" />
+    <history-entry file="LevelTest - 2018.05.27 at 16h 17m 19s.xml">
+      <configuration name="LevelTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="807" extended-state="6" />
-    <editor active="true" />
+    <frame x="16" y="40" width="1440" height="806" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292517" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32833788" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.123809524" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17438692" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13472222" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1736111" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3292517" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32833788" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39918256" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -906,10 +931,10 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.123809524" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11020408" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18888889" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13472222" sideWeight="0.5" order="5" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -920,92 +945,30 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Players/Spellcaster.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="11" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/ItemTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#172#173#0" expanded="false" />
-            <element signature="e#206#207#0" expanded="false" />
-            <element signature="e#263#264#0" expanded="false" />
-            <element signature="e#328#329#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/HealingTool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding>
-            <element signature="e#91#92#0" expanded="false" />
-            <element signature="e#136#137#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Spell.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="38" lean-forward="true" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
-          <folding>
-            <element signature="e#79#80#0" expanded="false" />
-            <element signature="e#124#125#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/MeleeWeapon.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding>
-            <element signature="e#91#92#0" expanded="false" />
-            <element signature="e#136#137#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/HealingToolTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="false" />
-            <element signature="e#193#194#0" expanded="false" />
-            <element signature="e#241#242#0" expanded="false" />
-            <element signature="e#297#298#0" expanded="false" />
-            <element signature="e#369#370#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/FamiliarTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="5" lean-forward="false" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#184#185#0" expanded="false" />
-            <element signature="e#226#227#0" expanded="false" />
-            <element signature="e#282#283#0" expanded="false" />
-            <element signature="e#351#352#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Familiar.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding>
-            <element signature="e#86#87#0" expanded="false" />
-            <element signature="e#131#132#0" expanded="false" />
+            <element signature="e#219#220#0" expanded="false" />
+            <element signature="e#267#268#0" expanded="false" />
+            <element signature="e#323#324#0" expanded="false" />
+            <element signature="e#395#396#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1026,10 +989,10 @@
           <caret line="15" column="22" lean-forward="false" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="false" />
-            <element signature="e#193#194#0" expanded="false" />
-            <element signature="e#242#243#0" expanded="false" />
-            <element signature="e#298#299#0" expanded="false" />
-            <element signature="e#371#372#0" expanded="false" />
+            <element signature="e#219#220#0" expanded="false" />
+            <element signature="e#268#269#0" expanded="false" />
+            <element signature="e#324#325#0" expanded="false" />
+            <element signature="e#397#398#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1039,135 +1002,233 @@
         <state relative-caret-position="150">
           <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#175#176#0" expanded="true" />
-            <element signature="e#211#212#0" expanded="true" />
-            <element signature="e#267#268#0" expanded="true" />
-            <element signature="e#333#334#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#195#196#0" expanded="false" />
+            <element signature="e#231#232#0" expanded="false" />
+            <element signature="e#287#288#0" expanded="false" />
+            <element signature="e#353#354#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ItemTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="e#191#192#0" expanded="false" />
+            <element signature="e#225#226#0" expanded="false" />
+            <element signature="e#282#283#0" expanded="false" />
+            <element signature="e#347#348#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/SpellcasterTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="43" column="5" lean-forward="false" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+        <state relative-caret-position="-38">
+          <caret line="21" column="56" lean-forward="true" selection-start-line="21" selection-start-column="56" selection-end-line="21" selection-end-column="56" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#395#396#0" expanded="true" />
-            <element signature="e#458#459#0" expanded="true" />
-            <element signature="e#518#519#0" expanded="true" />
-            <element signature="e#590#591#0" expanded="true" />
-            <element signature="e#648#649#0" expanded="true" />
-            <element signature="e#717#718#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#608#609#0" expanded="false" />
+            <element signature="e#671#672#0" expanded="false" />
+            <element signature="e#731#732#0" expanded="false" />
+            <element signature="e#803#804#0" expanded="false" />
+            <element signature="e#861#862#0" expanded="false" />
+            <element signature="e#930#931#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/FamiliarTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="16" column="5" lean-forward="false" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="e#305#306#0" expanded="true" />
+            <element signature="e#374#375#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Enums/RoomType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="12" lean-forward="false" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/LevelTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="38" column="48" lean-forward="true" selection-start-line="38" selection-start-column="48" selection-end-line="38" selection-end-column="48" />
+          <folding>
+            <element signature="e#369#370#0" expanded="true" />
+            <element signature="e#437#438#0" expanded="true" />
+            <element signature="e#482#483#0" expanded="true" />
+            <element signature="e#535#536#0" expanded="true" />
+            <element signature="e#579#580#0" expanded="true" />
+            <element signature="e#639#640#0" expanded="true" />
+            <element signature="e#700#701#0" expanded="true" />
+            <element signature="e#767#768#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tools/Item.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tools/HealingTool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tools/MeleeWeapon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tools/Spell.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Tools/Familiar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/HealerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="37" column="32" lean-forward="false" selection-start-line="37" selection-start-column="32" selection-end-line="37" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#389#390#0" expanded="true" />
-            <element signature="e#447#448#0" expanded="true" />
-            <element signature="e#510#511#0" expanded="true" />
-            <element signature="e#580#581#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Item.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
-          <folding>
-            <element signature="e#105#106#0" expanded="true" />
-            <element signature="e#173#174#0" expanded="true" />
-            <element signature="e#219#220#0" expanded="true" />
-            <element signature="e#269#270#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Spellcaster.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="60" lean-forward="false" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="60" />
-          <folding>
-            <element signature="e#388#389#0" expanded="true" />
-            <element signature="e#440#441#0" expanded="true" />
-            <element signature="e#483#484#0" expanded="true" />
-            <element signature="e#532#533#0" expanded="true" />
-            <element signature="e#589#590#0" expanded="true" />
-            <element signature="e#635#636#0" expanded="true" />
-            <element signature="e#704#705#0" expanded="true" />
-            <element signature="e#756#757#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Healer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="23" column="5" lean-forward="false" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-          <folding>
-            <element signature="e#302#303#0" expanded="true" />
-            <element signature="e#357#358#0" expanded="true" />
-            <element signature="e#425#426#0" expanded="true" />
-            <element signature="e#483#484#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="105">
+          <caret line="14" column="11" lean-forward="true" selection-start-line="14" selection-start-column="11" selection-end-line="14" selection-end-column="11" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/FighterTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="150">
+          <caret line="12" column="28" lean-forward="false" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#410#411#0" expanded="true" />
-            <element signature="e#469#470#0" expanded="true" />
-            <element signature="e#532#533#0" expanded="true" />
-            <element signature="e#603#604#0" expanded="true" />
+            <element signature="e#551#552#0" expanded="true" />
+            <element signature="e#610#611#0" expanded="true" />
+            <element signature="e#673#674#0" expanded="true" />
+            <element signature="e#744#745#0" expanded="true" />
+            <element signature="e#1381#1382#0" expanded="true" />
+            <element signature="e#1455#1456#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/PlayerCharacter.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Level.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="5" lean-forward="true" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        <state relative-caret-position="240">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
           <folding>
-            <element signature="e#151#152#0" expanded="true" />
-            <element signature="e#199#200#0" expanded="true" />
-            <element signature="e#234#235#0" expanded="true" />
-            <element signature="e#274#275#0" expanded="true" />
-            <element signature="e#329#330#0" expanded="true" />
-            <element signature="e#380#381#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#353#354#0" expanded="true" />
+            <element signature="e#384#385#0" expanded="true" />
+            <element signature="e#413#414#0" expanded="true" />
+            <element signature="e#461#462#0" expanded="true" />
+            <element signature="e#496#497#0" expanded="true" />
+            <element signature="e#547#548#0" expanded="true" />
+            <element signature="e#581#582#0" expanded="true" />
+            <element signature="e#620#621#0" expanded="true" />
+            <element signature="e#667#668#0" expanded="true" />
+            <element signature="e#715#716#0" expanded="true" />
+            <element signature="e#783#784#0" expanded="true" />
+            <element signature="e#829#830#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/IManipulateHealthPoints.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Players.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="30" lean-forward="false" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="30" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Fighter.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Players/Fighter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="48" lean-forward="false" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+        <state relative-caret-position="60">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding>
-            <element signature="e#303#304#0" expanded="true" />
-            <element signature="e#358#359#0" expanded="true" />
-            <element signature="e#428#429#0" expanded="true" />
-            <element signature="e#486#487#0" expanded="true" />
+            <element signature="e#453#454#0" expanded="true" />
+            <element signature="e#508#509#0" expanded="true" />
+            <element signature="e#578#579#0" expanded="true" />
+            <element signature="e#636#637#0" expanded="true" />
+            <element signature="e#1029#1030#0" expanded="true" />
+            <element signature="e#1078#1079#0" expanded="true" />
+            <element signature="e#1114#1115#0" expanded="true" />
+            <element signature="e#1150#1151#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Players/Healer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Players/Spellcaster.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="e#522#523#0" expanded="true" />
+            <element signature="e#574#575#0" expanded="true" />
+            <element signature="e#617#618#0" expanded="true" />
+            <element signature="e#666#667#0" expanded="true" />
+            <element signature="e#723#724#0" expanded="true" />
+            <element signature="e#769#770#0" expanded="true" />
+            <element signature="e#838#839#0" expanded="true" />
+            <element signature="e#890#891#0" expanded="true" />
+            <element signature="e#1277#1278#0" expanded="true" />
+            <element signature="e#1323#1324#0" expanded="true" />
+            <element signature="e#1364#1365#0" expanded="true" />
+            <element signature="e#1407#1408#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Players/PlayerCharacter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="22" lean-forward="true" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Interfaces/IManipulateHealthPoints.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="17" lean-forward="false" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>

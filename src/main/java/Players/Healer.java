@@ -1,10 +1,16 @@
+package Players;
+
+import Enums.RoomType;
+import Tools.HealingTool;
+import Tools.Item;
+
 import java.util.ArrayList;
 
-public class Healer extends PlayerCharacter {
+public class Healer extends PlayerCharacter{
     private ArrayList<HealingTool> healingToolInventory;
 
-    public Healer(int healthPoints){
-        super(healthPoints);
+    public Healer(int healthPoints, RoomType roomType){
+        super(healthPoints, roomType);
         healingToolInventory = new ArrayList<>();
     }
 
@@ -21,5 +27,9 @@ public class Healer extends PlayerCharacter {
         int healthPointManipulationInt = equippedItem.getHealthPointManipulator();
         int targetsHealth = target.getHealthPoints();
         target.setHealthPoints(targetsHealth + healthPointManipulationInt);
+    }
+
+    public void clearHealingToolInventory() {
+        this.healingToolInventory.clear();
     }
 }
